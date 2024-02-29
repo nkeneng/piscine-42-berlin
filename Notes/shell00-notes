@@ -1,0 +1,9 @@
+shell00 exercices
+	ex01
+		before that add some data into it with
+		echo -e "12345678901234567890123456789012345678\n" > testShell00
+		touch -t 202206012342.00 testShell00
+		
+		touch -t $(date +%Y)06010000 testDirectory
+		
+		for the symlink file : touch -h -t 202206012342.00 test6

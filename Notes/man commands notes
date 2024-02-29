@@ -1,0 +1,12 @@
+man ls 
+	-t sort by time newest first
+	-m wraps everything in a comma separated list
+	-p adds the / at the end of folder
+	--ignore ignores a specified file pattern
+	
+	
+man git log
+	https://git-scm.com/docs/pretty-formats
+	--pretty-format:""
+		%H commit hash
+		%h abbreviated commit hash
